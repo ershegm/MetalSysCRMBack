@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "1234",
+    "email": "",
+    "phone": "",
+    "responsible_id": null,
+    "company_id": null,
+    "tags": [
+      "fa"
+    ],
+    "deals_count": 0,
+    "created_at": "2025-11-16T17:52:28.378129",
+    "updated_at": null,
+    "external_id": "contact_1",
+    "first_name": "1234",
+    "last_name": "",
+    "middle_name": "",
+    "responsible_user_id": null,
+    "communications": [],
+    "position": "",
+    "department": "",
+    "is_active": true
+  }
+]

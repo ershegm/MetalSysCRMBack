@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "34",
+    "category": "Металлопрокат",
+    "available_stock": 2340,
+    "unit": "шт",
+    "retail_price": 2450,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 2,
+    "name": "543",
+    "category": "Материалы",
+    "available_stock": 505,
+    "unit": "шт",
+    "retail_price": 55,
+    "created_at": null,
+    "updated_at": null
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "ООО Профланец",
+    "type": 1,
+    "email": "proflans@gmail.com",
+    "phone": "84951234510",
+    "address_legal": "г. Москва, ул. Заводская, д. 15",
+    "address_real": "г. Москва, ул. Заводская, д. 15",
+    "inn": "6678114461",
+    "kpp": "",
+    "ogrn": "",
+    "agreement": "",
+    "manager_name": "Игошина Наталья Викторовна",
+    "manager_post": "",
+    "notes": "",
+    "external_id": "customer_1",
+    "customer_type": 1,
+    "contacts": [
+      {
+        "id": 1,
+        "contact_type": "EMAIL",
+        "value_type": "WORK",
+        "value": "proflans@gmail.com",
+        "is_primary": true
+      },
+      {
+        "id": 2,
+        "contact_type": "PHONE",
+        "value_type": "WORK",
+        "value": "84951234510",
+        "is_primary": true
+      }
+    ],
+    "files": [],
+    "is_active": true,
+    "created_at": "2025-11-16T17:52:28.354130",
+    "updated_at": "2025-11-16T17:52:28.354130",
+    "currency_id": "RUB"
+  },
+  {
+    "id": 2,
+    "name": "ООО Заглушка",
+    "type": 1,
+    "email": "zaglushka@zaglushka.ru",
+    "phone": "89999999999",
+    "address_legal": "г. Москва, ул. Заводская, д. 15",
+    "address_real": "г. Москва, ул. Заводская, д. 15",
+    "inn": "1111111111",
+    "kpp": "1111111111",
+    "ogrn": "1111111111",
+    "agreement": "1111111111",
+    "manager_name": "Заглушко Иван",
+    "manager_post": "Заглушка",
+    "notes": "Заглушка",
+    "external_id": "customer_2",
+    "customer_type": 1,
+    "contacts": [
+      {
+        "id": 1,
+        "contact_type": "EMAIL",
+        "value_type": "WORK",
+        "value": "zaglushka@zaglushka.ru",
+        "is_primary": true
+      },
+      {
+        "id": 2,
+        "contact_type": "PHONE",
+        "value_type": "WORK",
+        "value": "89999999999",
+        "is_primary": true
+      }
+    ],
+    "files": [],
+    "is_active": true,
+    "created_at": "2025-11-16T17:52:28.354130",
+    "updated_at": "2025-11-16T17:52:28.354130",
+    "currency_id": "RUB"
+  }
+]

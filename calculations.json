@@ -1,0 +1,52 @@
+[
+  {
+    "id": 8,
+    "name": "Втулка под изготовление и фланец Ду150 ру16",
+    "assortments": [
+      {
+        "id": "94362550-7bd1-46b6-99f0-2cade1ceb266",
+        "name": "Круг Сталь Ст3сп (Ø180 мм, 0.153 мм)",
+        "material": "Сталь Ст3",
+        "weight": 30.56,
+        "pricePerKg": 100.0,
+        "quantity": 1,
+        "materialCost": 3056.0,
+        "processingCost": 0.0,
+        "totalCost": 3056.0,
+        "markup": 0.0,
+        "operations": [],
+        "isAIGenerated": false,
+        "shape": "Круг",
+        "dimensions": {
+          "diameter": 180,
+          "length": 153
+        }
+      }
+    ],
+    "blanks": [
+      {
+        "id": "4d825b93-2c47-4397-aa0a-fa30980397ad",
+        "name": "Заглушка фланцевая 1-80-16-ст.12Х18Н10Т АТК 24.200.02-90 АС",
+        "weight": 1.0,
+        "price": 2606.0,
+        "quantity": 1,
+        "markup": 0.0,
+        "sum": 2606.0
+      }
+    ],
+    "global_operations": [
+      {
+        "serviceId": 6,
+        "variantId": "6-0",
+        "qty": 50.554,
+        "cost": 1011.08
+      }
+    ],
+    "global_markup": 150.0,
+    "global_markup_apply_to_assortments": true,
+    "global_markup_apply_to_blanks": false,
+    "global_markup_apply_to_operations": false,
+    "created_at": "2025-11-08T11:41:58.395404",
+    "updated_at": "2025-11-10T08:01:23.747363"
+  }
+]

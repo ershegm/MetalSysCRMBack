@@ -1,0 +1,1218 @@
+{
+  "prices_metal_materials": {
+    "Алюминий": [
+      {
+        "id": 68,
+        "grade": "1420",
+        "density": 2470,
+        "price": 160
+      },
+      {
+        "id": 69,
+        "grade": "А5",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 70,
+        "grade": "А85",
+        "density": 2700,
+        "price": 195
+      },
+      {
+        "id": 71,
+        "grade": "А95",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 72,
+        "grade": "А97",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 73,
+        "grade": "А99",
+        "density": 2700,
+        "price": 195
+      },
+      {
+        "id": 74,
+        "grade": "А999",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 75,
+        "grade": "АВ",
+        "density": 2700,
+        "price": 195
+      },
+      {
+        "id": 76,
+        "grade": "АД",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 77,
+        "grade": "АД0",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 78,
+        "grade": "АД1",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 79,
+        "grade": "АД31",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 80,
+        "grade": "АД33",
+        "density": 2710,
+        "price": 195
+      },
+      {
+        "id": 81,
+        "grade": "АК4",
+        "density": 2770,
+        "price": 150
+      },
+      {
+        "id": 82,
+        "grade": "АК4-1",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 83,
+        "grade": "АК5М7",
+        "density": 2850,
+        "price": 150
+      },
+      {
+        "id": 84,
+        "grade": "АК6",
+        "density": 2750,
+        "price": 150
+      },
+      {
+        "id": 85,
+        "grade": "АК8",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 86,
+        "grade": "АЛ1",
+        "density": 2750,
+        "price": 150
+      },
+      {
+        "id": 87,
+        "grade": "АЛ19",
+        "density": 2780,
+        "price": 150
+      },
+      {
+        "id": 88,
+        "grade": "АЛ2",
+        "density": 2650,
+        "price": 150
+      },
+      {
+        "id": 89,
+        "grade": "АЛ3",
+        "density": 2700,
+        "price": 150
+      },
+      {
+        "id": 90,
+        "grade": "АЛ32",
+        "density": 2650,
+        "price": 150
+      },
+      {
+        "id": 91,
+        "grade": "АЛ4",
+        "density": 2650,
+        "price": 150
+      },
+      {
+        "id": 92,
+        "grade": "АЛ5",
+        "density": 2680,
+        "price": 150
+      },
+      {
+        "id": 93,
+        "grade": "АЛ7",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 94,
+        "grade": "АЛ8",
+        "density": 2550,
+        "price": 150
+      },
+      {
+        "id": 95,
+        "grade": "АЛ9",
+        "density": 2660,
+        "price": 150
+      },
+      {
+        "id": 96,
+        "grade": "АМг1",
+        "density": 2670,
+        "price": 150
+      },
+      {
+        "id": 97,
+        "grade": "АМг2",
+        "density": 2680,
+        "price": 150
+      },
+      {
+        "id": 98,
+        "grade": "АМг3",
+        "density": 2670,
+        "price": 150
+      },
+      {
+        "id": 99,
+        "grade": "АМг5",
+        "density": 2650,
+        "price": 155
+      },
+      {
+        "id": 100,
+        "grade": "АМг5П",
+        "density": 2650,
+        "price": 155
+      },
+      {
+        "id": 101,
+        "grade": "АМг6",
+        "density": 2640,
+        "price": 155
+      },
+      {
+        "id": 102,
+        "grade": "АМц",
+        "density": 2730,
+        "price": 150
+      },
+      {
+        "id": 103,
+        "grade": "АН-2.5",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 104,
+        "grade": "В65",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 105,
+        "grade": "В93",
+        "density": 2840,
+        "price": 150
+      },
+      {
+        "id": 106,
+        "grade": "В94",
+        "density": 2850,
+        "price": 150
+      },
+      {
+        "id": 107,
+        "grade": "В95",
+        "density": 2850,
+        "price": 150
+      },
+      {
+        "id": 108,
+        "grade": "ВАЛ10",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 109,
+        "grade": "Д1",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 110,
+        "grade": "Д16",
+        "density": 2800,
+        "price": 150
+      },
+      {
+        "id": 111,
+        "grade": "Д18",
+        "density": 2760,
+        "price": 150
+      },
+      {
+        "id": 112,
+        "grade": "Д19",
+        "density": 2760,
+        "price": 150
+      }
+    ],
+    "Бронза": [
+      {
+        "id": 113,
+        "grade": "БрА5",
+        "density": 8200,
+        "price": 620
+      },
+      {
+        "id": 114,
+        "grade": "БрА7",
+        "density": 7800,
+        "price": 620
+      },
+      {
+        "id": 115,
+        "grade": "БрА9Ж3Л",
+        "density": 7600,
+        "price": 630
+      },
+      {
+        "id": 116,
+        "grade": "БрА9Ж4",
+        "density": 7600,
+        "price": 630
+      },
+      {
+        "id": 117,
+        "grade": "БрАЖ9-4",
+        "density": 7600,
+        "price": 630
+      },
+      {
+        "id": 118,
+        "grade": "БрАЖН10-4-4",
+        "density": 7500,
+        "price": 630
+      },
+      {
+        "id": 119,
+        "grade": "БрАМц9-2",
+        "density": 7600,
+        "price": 630
+      },
+      {
+        "id": 120,
+        "grade": "БрБ2",
+        "density": 8200,
+        "price": 765
+      },
+      {
+        "id": 121,
+        "grade": "БрБ2.5",
+        "density": 8230,
+        "price": 765
+      },
+      {
+        "id": 122,
+        "grade": "БрКМц3-1",
+        "density": 8400,
+        "price": 620
+      },
+      {
+        "id": 123,
+        "grade": "БрКН1-3",
+        "density": 8800,
+        "price": 620
+      },
+      {
+        "id": 124,
+        "grade": "БрО10",
+        "density": 8800,
+        "price": 620
+      },
+      {
+        "id": 125,
+        "grade": "БрО10Ф1",
+        "density": 8760,
+        "price": 765
+      },
+      {
+        "id": 126,
+        "grade": "БрО10Ц2",
+        "density": 8500,
+        "price": 620
+      },
+      {
+        "id": 127,
+        "grade": "БрО5Ц5С5",
+        "density": 8800,
+        "price": 620
+      },
+      {
+        "id": 128,
+        "grade": "БрО8С12",
+        "density": 9100,
+        "price": 620
+      },
+      {
+        "id": 129,
+        "grade": "БрОФ6.5-0.15",
+        "density": 8800,
+        "price": 765
+      },
+      {
+        "id": 130,
+        "grade": "БрОЦ4-3",
+        "density": 8800,
+        "price": 620
+      },
+      {
+        "id": 131,
+        "grade": "БрОЦС4-4-2.5",
+        "density": 8900,
+        "price": 620
+      },
+      {
+        "id": 132,
+        "grade": "БрОЦС4-4-4",
+        "density": 9100,
+        "price": 620
+      },
+      {
+        "id": 133,
+        "grade": "БрС30",
+        "density": 9540,
+        "price": 620
+      },
+      {
+        "id": 134,
+        "grade": "БрХ1",
+        "density": 8900,
+        "price": 620
+      }
+    ],
+    "Латунь": [
+      {
+        "id": 135,
+        "grade": "Л59",
+        "density": 8400,
+        "price": 500
+      },
+      {
+        "id": 136,
+        "grade": "Л60",
+        "density": 8400,
+        "price": 500
+      },
+      {
+        "id": 137,
+        "grade": "Л63",
+        "density": 8440,
+        "price": 515
+      },
+      {
+        "id": 138,
+        "grade": "Л66",
+        "density": 8470,
+        "price": 520
+      },
+      {
+        "id": 139,
+        "grade": "Л68",
+        "density": 8600,
+        "price": 525
+      },
+      {
+        "id": 140,
+        "grade": "Л70",
+        "density": 8610,
+        "price": 525
+      },
+      {
+        "id": 141,
+        "grade": "Л75",
+        "density": 8630,
+        "price": 530
+      },
+      {
+        "id": 142,
+        "grade": "Л80",
+        "density": 8660,
+        "price": 535
+      },
+      {
+        "id": 143,
+        "grade": "Л85",
+        "density": 8750,
+        "price": 545
+      },
+      {
+        "id": 144,
+        "grade": "Л90",
+        "density": 8780,
+        "price": 550
+      },
+      {
+        "id": 145,
+        "grade": "Л96",
+        "density": 8850,
+        "price": 555
+      },
+      {
+        "id": 146,
+        "grade": "ЛА77-2",
+        "density": 8600,
+        "price": 525
+      },
+      {
+        "id": 147,
+        "grade": "ЛАЖ60-1-1",
+        "density": 8200,
+        "price": 500
+      },
+      {
+        "id": 148,
+        "grade": "ЛЖМц59-1-1",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 149,
+        "grade": "ЛЖС58-1-1",
+        "density": 8400,
+        "price": 500
+      },
+      {
+        "id": 150,
+        "grade": "ЛК80-3",
+        "density": 8200,
+        "price": 500
+      },
+      {
+        "id": 151,
+        "grade": "ЛМц58-2",
+        "density": 8400,
+        "price": 500
+      },
+      {
+        "id": 152,
+        "grade": "ЛО60-1",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 153,
+        "grade": "ЛО62-1",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 154,
+        "grade": "ЛО70-1",
+        "density": 8600,
+        "price": 520
+      },
+      {
+        "id": 155,
+        "grade": "ЛС59-1",
+        "density": 8450,
+        "price": 510
+      },
+      {
+        "id": 156,
+        "grade": "ЛС63-3",
+        "density": 8500,
+        "price": 515
+      },
+      {
+        "id": 157,
+        "grade": "ЛС64-2",
+        "density": 8500,
+        "price": 515
+      },
+      {
+        "id": 158,
+        "grade": "ЛЦ16К4",
+        "density": 8300,
+        "price": 500
+      },
+      {
+        "id": 159,
+        "grade": "ЛЦ23А6Ж3Мц2",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 160,
+        "grade": "ЛЦ30А3",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 161,
+        "grade": "ЛЦ38Мц2С2",
+        "density": 8500,
+        "price": 510
+      },
+      {
+        "id": 162,
+        "grade": "ЛЦ40С",
+        "density": 8500,
+        "price": 510
+      }
+    ],
+    "Медь": [
+      {
+        "id": 163,
+        "grade": "БрКд1",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 164,
+        "grade": "БрНБТ",
+        "density": 8830,
+        "price": 810
+      },
+      {
+        "id": 165,
+        "grade": "БрНХК",
+        "density": 8850,
+        "price": 810
+      },
+      {
+        "id": 166,
+        "grade": "БрХ",
+        "density": 8920,
+        "price": 810
+      },
+      {
+        "id": 167,
+        "grade": "БрХЦр",
+        "density": 8900,
+        "price": 810
+      },
+      {
+        "id": 168,
+        "grade": "М0",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 169,
+        "grade": "М00",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 170,
+        "grade": "М00б",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 171,
+        "grade": "М0б",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 172,
+        "grade": "М0к",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 173,
+        "grade": "М1",
+        "density": 8930,
+        "price": 810
+      },
+      {
+        "id": 174,
+        "grade": "М1к",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 175,
+        "grade": "М1р",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 176,
+        "grade": "М1ф",
+        "density": 8940,
+        "price": 810
+      },
+      {
+        "id": 177,
+        "grade": "М2",
+        "density": 8940,
+        "price": 800
+      },
+      {
+        "id": 178,
+        "grade": "М3",
+        "density": 8940,
+        "price": 790
+      },
+      {
+        "id": 179,
+        "grade": "М3р",
+        "density": 8940,
+        "price": 790
+      },
+      {
+        "id": 180,
+        "grade": "МК",
+        "density": 8920,
+        "price": 810
+      },
+      {
+        "id": 181,
+        "grade": "МН19",
+        "density": 8900,
+        "price": 445
+      },
+      {
+        "id": 182,
+        "grade": "МНЖ5-1",
+        "density": 8700,
+        "price": 665
+      },
+      {
+        "id": 183,
+        "grade": "МНМц3-12",
+        "density": 8400,
+        "price": 535
+      },
+      {
+        "id": 184,
+        "grade": "МНМц40-1.5",
+        "density": 8900,
+        "price": 400
+      },
+      {
+        "id": 185,
+        "grade": "МНМц43-0.5",
+        "density": 8900,
+        "price": 395
+      },
+      {
+        "id": 186,
+        "grade": "МНЦ15-20",
+        "density": 8700,
+        "price": 370
+      },
+      {
+        "id": 187,
+        "grade": "НМЖМц28-2.5-1.5",
+        "density": 7800,
+        "price": 500
+      }
+    ],
+    "Сталь": [
+      {
+        "id": 1,
+        "grade": "08Х13",
+        "density": 7760,
+        "price": 60
+      },
+      {
+        "id": 2,
+        "grade": "08Х17Т",
+        "density": 7760,
+        "price": 65
+      },
+      {
+        "id": 3,
+        "grade": "08Х18Н10",
+        "density": 7850,
+        "price": 70
+      },
+      {
+        "id": 4,
+        "grade": "08Х18Н10Т",
+        "density": 7900,
+        "price": 72
+      },
+      {
+        "id": 5,
+        "grade": "09Г2С",
+        "density": 7850,
+        "price": 25
+      },
+      {
+        "id": 6,
+        "grade": "10",
+        "density": 7850,
+        "price": 24
+      },
+      {
+        "id": 7,
+        "grade": "10Х17Н13М2Т",
+        "density": 7900,
+        "price": 125
+      },
+      {
+        "id": 8,
+        "grade": "10Х17Н13М3Т",
+        "density": 7900,
+        "price": 125
+      },
+      {
+        "id": 9,
+        "grade": "10ХСНД",
+        "density": 7850,
+        "price": 24
+      },
+      {
+        "id": 10,
+        "grade": "110Г13Л",
+        "density": 7820,
+        "price": 30
+      },
+      {
+        "id": 11,
+        "grade": "12Х13",
+        "density": 7720,
+        "price": 65
+      },
+      {
+        "id": 12,
+        "grade": "12Х18Н10Т",
+        "density": 7900,
+        "price": 70
+      },
+      {
+        "id": 13,
+        "grade": "12Х1МФ",
+        "density": 7800,
+        "price": 28
+      },
+      {
+        "id": 14,
+        "grade": "14Х17Н2",
+        "density": 7750,
+        "price": 65
+      },
+      {
+        "id": 15,
+        "grade": "15Х25Т",
+        "density": 7700,
+        "price": 16
+      },
+      {
+        "id": 16,
+        "grade": "15Х5М",
+        "density": 7750,
+        "price": 28
+      },
+      {
+        "id": 17,
+        "grade": "15ХСНД",
+        "density": 7850,
+        "price": 24
+      },
+      {
+        "id": 18,
+        "grade": "20",
+        "density": 7850,
+        "price": 23
+      },
+      {
+        "id": 19,
+        "grade": "20Л",
+        "density": 7850,
+        "price": 23
+      },
+      {
+        "id": 20,
+        "grade": "20Х13",
+        "density": 7670,
+        "price": 65
+      },
+      {
+        "id": 21,
+        "grade": "20Х23Н18",
+        "density": 7900,
+        "price": 75
+      },
+      {
+        "id": 22,
+        "grade": "30Х",
+        "density": 7820,
+        "price": 28
+      },
+      {
+        "id": 23,
+        "grade": "30Х13",
+        "density": 7670,
+        "price": 65
+      },
+      {
+        "id": 24,
+        "grade": "38ХН3МА",
+        "density": 7850,
+        "price": 35
+      },
+      {
+        "id": 25,
+        "grade": "40Х",
+        "density": 7820,
+        "price": 28
+      },
+      {
+        "id": 26,
+        "grade": "40Х13",
+        "density": 7650,
+        "price": 65
+      },
+      {
+        "id": 27,
+        "grade": "45",
+        "density": 7820,
+        "price": 28
+      },
+      {
+        "id": 28,
+        "grade": "5ХНМ",
+        "density": 7800,
+        "price": 35
+      },
+      {
+        "id": 29,
+        "grade": "60Г",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 30,
+        "grade": "60С2А",
+        "density": 7680,
+        "price": 30
+      },
+      {
+        "id": 31,
+        "grade": "65",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 32,
+        "grade": "65Г",
+        "density": 7850,
+        "price": 30
+      },
+      {
+        "id": 33,
+        "grade": "70",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 34,
+        "grade": "95Х18",
+        "density": 7750,
+        "price": 65
+      },
+      {
+        "id": 35,
+        "grade": "AISI 304",
+        "density": 7850,
+        "price": 70
+      },
+      {
+        "id": 36,
+        "grade": "AISI 304L",
+        "density": 7850,
+        "price": 70
+      },
+      {
+        "id": 37,
+        "grade": "AISI 316L",
+        "density": 8000,
+        "price": 75
+      },
+      {
+        "id": 38,
+        "grade": "AISI 316Ti",
+        "density": 7950,
+        "price": 73
+      },
+      {
+        "id": 39,
+        "grade": "AISI 321",
+        "density": 7900,
+        "price": 72
+      },
+      {
+        "id": 40,
+        "grade": "AISI 409",
+        "density": 7760,
+        "price": 60
+      },
+      {
+        "id": 41,
+        "grade": "AISI 410",
+        "density": 7720,
+        "price": 65
+      },
+      {
+        "id": 42,
+        "grade": "AISI 420",
+        "density": 7650,
+        "price": 65
+      },
+      {
+        "id": 43,
+        "grade": "AISI 420S",
+        "density": 7670,
+        "price": 65
+      },
+      {
+        "id": 44,
+        "grade": "AISI 430",
+        "density": 7720,
+        "price": 60
+      },
+      {
+        "id": 45,
+        "grade": "AISI 439",
+        "density": 7700,
+        "price": 60
+      },
+      {
+        "id": 46,
+        "grade": "AISI 904L",
+        "density": 7960,
+        "price": 250
+      },
+      {
+        "id": 47,
+        "grade": "Р6М5",
+        "density": 8300,
+        "price": 320
+      },
+      {
+        "id": 48,
+        "grade": "Ст1",
+        "density": 7850,
+        "price": 23
+      },
+      {
+        "id": 49,
+        "grade": "Ст3кп",
+        "density": 7800,
+        "price": 23
+      },
+      {
+        "id": 50,
+        "grade": "Ст3пс",
+        "density": 7800,
+        "price": 23
+      },
+      {
+        "id": 51,
+        "grade": "Ст3сп",
+        "density": 7870,
+        "price": 23
+      },
+      {
+        "id": 52,
+        "grade": "У10",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 53,
+        "grade": "У10А",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 54,
+        "grade": "У12А",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 55,
+        "grade": "У7",
+        "density": 7830,
+        "price": 30
+      },
+      {
+        "id": 56,
+        "grade": "У8",
+        "density": 7839,
+        "price": 30
+      },
+      {
+        "id": 57,
+        "grade": "У8А",
+        "density": 7830,
+        "price": 30
+      },
+      {
+        "id": 58,
+        "grade": "Х15Н60",
+        "density": 8500,
+        "price": 250
+      },
+      {
+        "id": 59,
+        "grade": "Х20Н80",
+        "density": 8400,
+        "price": 1055
+      },
+      {
+        "id": 60,
+        "grade": "Х23Ю5Т",
+        "density": 7210,
+        "price": 85
+      },
+      {
+        "id": 61,
+        "grade": "ШХ15",
+        "density": 7810,
+        "price": 30
+      },
+      {
+        "id": 62,
+        "grade": "ШХ4",
+        "density": 7850,
+        "price": 30
+      },
+      {
+        "id": 200,
+        "grade": "Ст3",
+        "density": 7850,
+        "price": 100
+      }
+    ],
+    "Титан": [
+      {
+        "id": 188,
+        "grade": "ВТ1-0",
+        "density": 4505,
+        "price": 189
+      },
+      {
+        "id": 189,
+        "grade": "ВТ1-00",
+        "density": 4505,
+        "price": 189
+      },
+      {
+        "id": 190,
+        "grade": "ВТ1-1",
+        "density": 4505,
+        "price": 189
+      },
+      {
+        "id": 191,
+        "grade": "ВТ14",
+        "density": 4520,
+        "price": 165
+      },
+      {
+        "id": 192,
+        "grade": "ВТ20",
+        "density": 4450,
+        "price": 165
+      },
+      {
+        "id": 193,
+        "grade": "ВТ22",
+        "density": 4600,
+        "price": 165
+      },
+      {
+        "id": 194,
+        "grade": "ВТ3-1",
+        "density": 4500,
+        "price": 165
+      },
+      {
+        "id": 195,
+        "grade": "ВТ5",
+        "density": 4400,
+        "price": 165
+      },
+      {
+        "id": 196,
+        "grade": "ВТ5-1",
+        "density": 4460,
+        "price": 165
+      },
+      {
+        "id": 197,
+        "grade": "ВТ6",
+        "density": 4430,
+        "price": 165
+      },
+      {
+        "id": 198,
+        "grade": "ОТ4-1",
+        "density": 4550,
+        "price": 165
+      },
+      {
+        "id": 199,
+        "grade": "ПТ7М",
+        "density": 4490,
+        "price": 165
+      }
+    ],
+    "Чугун": [
+      {
+        "id": 63,
+        "grade": "СЧ10",
+        "density": 6800,
+        "price": 17
+      },
+      {
+        "id": 64,
+        "grade": "СЧ15",
+        "density": 7000,
+        "price": 17
+      },
+      {
+        "id": 65,
+        "grade": "СЧ20",
+        "density": 7100,
+        "price": 17
+      },
+      {
+        "id": 66,
+        "grade": "СЧ25",
+        "density": 7200,
+        "price": 17
+      },
+      {
+        "id": 67,
+        "grade": "СЧ35",
+        "density": 7400,
+        "price": 17
+      }
+    ]
+  }
+}
